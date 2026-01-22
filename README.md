@@ -12,3 +12,9 @@ sudo apt-get install trivy -y
 ```bash
 docker run -itd --name SonarQube-Server -p 9000:9000 sonarqube:lts-community
 ```
+# Steps to implement the project:
+### Go to Jenkins Master and click on Manage Jenkins --> Plugins --> Available plugins install the below plugins:
+1. OWASP
+2. SonarQube Scanner
+3. Docker
+4. Pipeline: Stage View
