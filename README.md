@@ -18,3 +18,6 @@ docker run -itd --name SonarQube-Server -p 9000:9000 sonarqube:lts-community
 2. SonarQube Scanner
 3. Docker
 4. Pipeline: Stage View
+5. Blue Ocean
+
+
